@@ -1,0 +1,8 @@
+site_name: Документация MkDocs
+site_description: Тестовый сайт с документацией на MkDocs.
+
+theme: material
+
+nav:
+  - Home: index.md
+  - About: about.md
