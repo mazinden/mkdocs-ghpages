@@ -5,4 +5,6 @@ theme: material
 
 nav:
   - Home: index.md
+  - User Guide:
+    - Getting Started: start.md
   - About: about.md
