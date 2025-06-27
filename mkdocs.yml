@@ -7,4 +7,5 @@ nav:
   - Home: index.md
   - User Guide:
     - Getting Started: start.md
+  - API Reference: dist/index.html
   - About: about.md
